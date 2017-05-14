@@ -28,12 +28,3 @@ for img in images_name:
 print("height",HEIGHT)
 print("width",WIDTH)
 
-'''
-for img in images_name:
-    w, h = img.shape[0:2]
-    WIDTH.append(w)
-    HEIGHT.append(h)
-max_width = max(WIDTH)
-max_height = max(HEIGHT)
-
-'''

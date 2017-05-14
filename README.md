@@ -10,5 +10,6 @@ Pytorch version :  https://github.com/meijieru/crnn.pytorch
 
 # My task
 
-1-Reproduce the result of the article.
-2- Adapt the code and fine-tune the model for other datasets.
+1-Reproduce the result of the article
+
+2- Adapt the code and fine-tune the model for other datasets

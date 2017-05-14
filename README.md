@@ -12,4 +12,4 @@ Pytorch version :  https://github.com/meijieru/crnn.pytorch
 
 1-Reproduce the result of the article
 
-2- Adapt the code and fine-tune the model for other datasets
+2- Adapt the code and fine-tune the model to other datasets
